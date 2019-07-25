@@ -1,0 +1,41 @@
+.partners-text-container{
+    padding: 0 15px;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-bottom: 10%
+    
+}
+.partners-container ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners-container li{
+    max-width: 10%;
+    flex: 0 0 25%;
+    margin: 0 50px;
+    
+}
+
+.partners h2 {
+    font-family: Roboto;
+    text-align: center;
+    font-size: 40px;
+}
+
+.partners p {
+    font-family: Roboto;
+    text-align: center;
+    font-size: 15px;
+}
+
+.partners ul{
+    list-style-type: none;
+}
+
+.partners img{
+    width: 100%;
+    object-fit: contain;
+}
